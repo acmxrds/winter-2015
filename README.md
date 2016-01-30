@@ -6,4 +6,4 @@ The Internet of things (IoT) is becoming a popular topic of conversation both in
 and outside of it. It is a concept that not only has the potential to impact how we live but also 
 how we work. But what exactly is the Internet of things and what impact is it going to have?  
 
-[Internet of Things]: http://xrds.acm.org/
+[Internet of Things]: http://xrds.acm.org/archives.cfm?iid=2872292
